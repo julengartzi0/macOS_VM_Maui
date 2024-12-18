@@ -22,7 +22,9 @@ MAUI erabili ahal izateko dotnet-sdk instalatu beharko dugu, horretarako:
 https://dotnet.microsoft.com/es-es/download/dotnet/8.0
 Azken bertsioa deskargatuko dugu, kasu honetan, SDK 8.0.404 eta x64 bertsioa, gure prozesagailua intel bat da eta.
 ![sdk](https://github.com/user-attachments/assets/e4f57b12-1188-460b-8e5a-5c28e07418e4)
+
 Deskargatu ondoren instaladorea iriko dugu, eta aurrera egingo dugu.
+
 ![insta](https://github.com/user-attachments/assets/76f7eb80-e3f7-430b-83e3-80a6cada314c)
 
 Honekin gure proiektuak mahaigain moduan exekutatu ahal izango ditugu.
