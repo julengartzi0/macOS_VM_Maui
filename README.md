@@ -51,5 +51,7 @@ The Unarchiver konfiguratu Ireki The Unarchiver aplikazioen karpetatik, hautatu 
 
 Pausu hauek jarraituta fitxategiak deskonprimitu ahal izango ditugu.
 
+# XCODE deskargatzeko
+
 
 
