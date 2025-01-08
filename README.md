@@ -34,14 +34,19 @@ Gogoratu macos-en fitxategiak deskonprimitzeko, hortarako The Unarchiver erabili
 Apple storea ezin izango dugunez erabili danak Apple ID berdina partekatzen dugulako, hurrengo pausuak jarraitu ditzakegu: 
 
 Homebrew instalatu (ez baduzu instalatuta) Ireki Terminala eta exekutatu hurrengo komandoa:
-  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
 Jarraitu pantailan agertzen diren argibideak instalazioa amaitzeko.
 
 The Unarchiver instalatu Behin Homebrew instalatuta, exekutatu komando hau The Unarchiver instalatzeko:
-  brew install --cask the-unarchiver
+
+brew install --cask the-unarchiver
 
 Instalazioa egiaztatu Ziurtatzeko The Unarchiver behar bezala instalatu dela, bilatu aplikazioen karpetan edo exekutatu hau:
-  open /Applications/The\ Unarchiver.app
+
+open /Applications/The\ Unarchiver.app
+
 The Unarchiver konfiguratu Ireki The Unarchiver aplikazioen karpetatik, hautatu kudeatu nahi dituzun formatuak (adibidez, .rar, .7z, etab.), eta erabilgarri egongo da.
 
 Pausu hauek jarraituta fitxategiak deskonprimitu ahal izango ditugu.
