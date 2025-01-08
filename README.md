@@ -44,5 +44,7 @@ Instalazioa egiaztatu Ziurtatzeko The Unarchiver behar bezala instalatu dela, bi
   open /Applications/The\ Unarchiver.app
 The Unarchiver konfiguratu Ireki The Unarchiver aplikazioen karpetatik, hautatu kudeatu nahi dituzun formatuak (adibidez, .rar, .7z, etab.), eta erabilgarri egongo da.
 
+Pausu hauek jarraituta fitxategiak deskonprimitu ahal izango ditugu.
+
 
 
