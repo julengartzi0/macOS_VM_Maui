@@ -33,30 +33,16 @@ Gogoratu macos-en fitxategiak deskonprimitzeko, hortarako The Unarchiver erabili
 # The Unarchiver instalatzeko.
 Apple storea ezin izango dugunez erabili danak Apple ID berdina partekatzen dugulako, hurrengo pausuak jarraitu ditzakegu: 
 
-Puedes instalar The Unarchiver en macOS usando Homebrew, que es un gestor de paquetes popular para macOS. Sigue estos pasos:
+Homebrew instalatu (ez baduzu instalatuta) Ireki Terminala eta exekutatu hurrengo komandoa:
+  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+Jarraitu pantailan agertzen diren argibideak instalazioa amaitzeko.
 
-1. Instalar Homebrew (si no lo tienes instalado)
-Abre la Terminal y ejecuta el siguiente comando:
+The Unarchiver instalatu Behin Homebrew instalatuta, exekutatu komando hau The Unarchiver instalatzeko:
+  brew install --cask the-unarchiver
 
-bash
-Copiar código
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-Sigue las instrucciones en pantalla para completar la instalación.
-
-2. Instalar The Unarchiver
-Una vez que Homebrew esté instalado, ejecuta este comando para instalar The Unarchiver:
-
-bash
-Copiar código
-brew install --cask the-unarchiver
-3. Verificar la Instalación
-Para asegurarte de que The Unarchiver está instalado correctamente, puedes buscarlo en tu carpeta de aplicaciones o ejecutar:
-
-bash
-Copiar código
-open /Applications/The\ Unarchiver.app
-4. Configurar The Unarchiver
-Abre The Unarchiver desde la carpeta de aplicaciones, configura los formatos que quieres que maneje (como .rar, .7z, etc.), y estará listo para usarse.
+Instalazioa egiaztatu Ziurtatzeko The Unarchiver behar bezala instalatu dela, bilatu aplikazioen karpetan edo exekutatu hau:
+  open /Applications/The\ Unarchiver.app
+The Unarchiver konfiguratu Ireki The Unarchiver aplikazioen karpetatik, hautatu kudeatu nahi dituzun formatuak (adibidez, .rar, .7z, etab.), eta erabilgarri egongo da.
 
 
 
