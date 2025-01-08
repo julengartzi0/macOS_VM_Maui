@@ -53,5 +53,5 @@ Pausu hauek jarraituta fitxategiak deskonprimitu ahal izango ditugu.
 
 # XCODE deskargatzeko
 
-
+Deskargartzeko link-a: https://drive.google.com/file/d/1TK02h3_HE6vZFyfyCcAR6sSl2sIBY_IE/view?usp=drive_link
 
